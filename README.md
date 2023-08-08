@@ -18,10 +18,6 @@ Para começar é pré-requisito ter a versão do **NodeJS(v16.0)** instalado.
 
 - [x] Caso não tenha instalado, utilizar no terminal de sua preferência o seguinte comando: **npm i -g @nestjs/cli**
 
-- [x] Conectar a VPN.
-
-- [x] Baixar a aplicação no repositório sandbox: https://10.205.105.157/correntista-devs/bsmb-bff-nestjs-arquiteturahexagonal-bff
-
 - [ ] Opcional: Docker e WSL instalado.
 
 - [ ] Opcional: Em caso de problemas com alguma lib da aplicação, utilizar o comando: **npm rebuild**
@@ -29,8 +25,6 @@ Para começar é pré-requisito ter a versão do **NodeJS(v16.0)** instalado.
 - #### LINKS UTEIS
 
 - [Documentação do framework:] (https://docs.nestjs.com/first-steps)
-
-- [Arquitetura do projeto:] (https://confluence.bradescoseguros.com.br/display/SDIGCCOR00/3.4+Sala+de+Seguros?src=contextnavpagetreemode)
 
 - [Swagger-Ui:] (http://localhost:3000/api)
 
